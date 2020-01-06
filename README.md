@@ -7,11 +7,11 @@ Cron V3 has been released!
 
 To download the specific tagged release, run:
 ```bash
-go get github.com/robfig/cron/v3@v3.0.0
+go get github.com/luthfikw/cron
 ```
 Import it in your program as:
 ```go
-import "github.com/robfig/cron/v3"
+import "github.com/luthfikw/cron"
 ```
 It requires Go 1.11 or later due to usage of Go Modules.
 
